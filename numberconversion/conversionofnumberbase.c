@@ -101,5 +101,6 @@ int main()
           printf("%c",x[i]);
         }  
     }  
+    printf("\n\nThank you for visiting");
     
 }
