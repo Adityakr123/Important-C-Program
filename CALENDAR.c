@@ -8,6 +8,7 @@ int get_first_weekDay(int year)
 }
 int main()
 {
+    printf("welcome to calendar");
     int year,day=0,dayInMonth,weekDay=0,startingDay,month;
     printf("Enter your desired year: ");
     scanf("%d",&year);
